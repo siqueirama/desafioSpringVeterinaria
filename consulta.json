@@ -1,0 +1,41 @@
+[ {
+  "dataHora" : [ 2020, 5, 13 ],
+  "motivo" : "motivo",
+  "diagnostico" : "diagnostico",
+  "tratamento" : "tratamento",
+  "medico" : {
+    "cpfMedico" : "123456879",
+    "nomeMedico" : "marco",
+    "sobrenomeMedico" : "da Rocha",
+    "numeroRegistro" : 1145634510,
+    "especielidade" : "cardio"
+  },
+  "animal" : {
+    "numeroDoPaciente" : 2,
+    "especie" : "gato",
+    "raca" : "do mato",
+    "cor" : "preto",
+    "dataDeNascimento" : [ 1977, 5, 13 ],
+    "nome" : "felix"
+  }
+}, {
+  "dataHora" : [ 2020, 5, 13 ],
+  "motivo" : "motivo",
+  "diagnostico" : "diagnostico",
+  "tratamento" : "tratamento",
+  "medico" : {
+    "cpfMedico" : "123456879",
+    "nomeMedico" : "marco",
+    "sobrenomeMedico" : "da Rocha",
+    "numeroRegistro" : 2000006000,
+    "especielidade" : "cardio"
+  },
+  "animal" : {
+    "numeroDoPaciente" : 2,
+    "especie" : "gato",
+    "raca" : "do mato",
+    "cor" : "preto",
+    "dataDeNascimento" : [ 1977, 5, 13 ],
+    "nome" : "felix"
+  }
+} ]
